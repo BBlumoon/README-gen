@@ -1,11 +1,11 @@
-# a 
-![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+# README 
+![Github license](https://img.shields.io/badge/license--blue.svg)
 ## Description
-a
+
 ## Deployed Application URL
-a
+
 ## Screenshot
-![alt-text](a)
+![alt-text]()
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
@@ -14,14 +14,14 @@ a
 * [Testing](#testing)
 * [Questions](#questions)
 ## Features
-a
+
 ## Languages & Dependencies
-a
+
 ## How to Use This Application:
-a
+
 ## Contributors
-a
+
 ## Testing
-a
+
 ## Questions
-Please send your questions [here](mailto:a?subject=[GitHub]%20Dev%20Connect) or visit [github/a](https://github.com/a).
+Please send your questions [here](mailto:?subject=[GitHub]%20Dev%20Connect) or visit [github/](https://github.com/).
