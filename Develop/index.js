@@ -18,11 +18,6 @@ const questions = [
   },
   {
     type: "input",
-    name: "screenshot",
-    message: "Please provide the relative path to the image you want to use as the screenshot."
-  },
-  {
-    type: "input",
     name: "link",
     message: "Please provide a URL where a user can access your deployed application."
   },
@@ -40,7 +35,7 @@ const questions = [
   {
     type: "input",
     name: "features",
-    message: "List some cool features about this project here.",
+    message: "List some features about this project here.",
   },
   {
     type: "input",
@@ -51,7 +46,7 @@ const questions = [
   {
     type: "input",
     name: "creator",
-    message: "Write your GitHub username.",
+    message: "Please write your GitHub username.",
   },
   {
     type: "input",
@@ -61,7 +56,7 @@ const questions = [
   {
     type: "input",
     name: "contributors",
-    message: "Please list any contributors. (Use GitHub usernames)",
+    message: "Please list any outside contributors. (Use GitHub usernames)",
     default: "",
   },
   {
